@@ -1,5 +1,5 @@
-Summary:	Converts ape-image to mp3-tracks
-Summary(pl):	Konwersja obrazów ape do scie¿ek mp3
+Summary:	Converts ape-image to MP3-tracks
+Summary(pl):	Konwersja obrazów ape do scie¿ek MP3
 Name:		ape2mp3
 Version:	0.1
 Release:	1
@@ -12,13 +12,13 @@ Requires:	bash
 Requires:	bchunk >= 1.0
 Requires:	lame
 Requires:	mac >= 3.9
-BuildRoot:      %{tmpdir}/%{name}-%{version}-root-%(id -u -n)
+BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
-ape2mp3 converts ape-image to mp3-tracks.
+ape2mp3 converts ape-image to MP3-tracks.
 
 %description -l pl
-ape2mp3 konwertuje obrazy w formacie ape do scie¿ek mp3
+ape2mp3 konwertuje obrazy w formacie ape do scie¿ek MP3.
 
 %prep
 
