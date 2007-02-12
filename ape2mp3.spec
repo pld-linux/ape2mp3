@@ -1,5 +1,5 @@
 Summary:	Converts ape-image to MP3-tracks
-Summary(pl):	Konwersja obrazÛw ape do scieøek MP3
+Summary(pl.UTF-8):   Konwersja obraz√≥w ape do scie≈ºek MP3
 Name:		ape2mp3
 Version:	0.1
 Release:	2
@@ -18,8 +18,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 ape2mp3 converts ape-image to MP3-tracks.
 
-%description -l pl
-ape2mp3 konwertuje obrazy w formacie ape do scieøek MP3.
+%description -l pl.UTF-8
+ape2mp3 konwertuje obrazy w formacie ape do scie≈ºek MP3.
 
 %prep
 
