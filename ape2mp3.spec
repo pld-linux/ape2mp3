@@ -1,5 +1,5 @@
 Summary:	Converts ape-image to MP3-tracks
-Summary(pl.UTF-8):   Konwersja obrazów ape do scieżek MP3
+Summary(pl.UTF-8):	Konwersja obrazów ape do scieżek MP3
 Name:		ape2mp3
 Version:	0.1
 Release:	2
